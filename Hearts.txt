@@ -1,0 +1,4 @@
+//TileName-SpriteX-SpriteY-CollisionType4
+3Hearts-0-0
+2Hearts-0-1
+1Heart-0-2
